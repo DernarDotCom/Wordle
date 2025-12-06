@@ -1,0 +1,43 @@
+[35mBienvenidos al Wordle
+Dame tu nombre:
+Vamos a jugar JAvier+
+[36m#PalabraSecreta RESTO
+[0mTienes 6 intentos restantes
+Introduce una palabra de 5 letras: [32m
+Validación: 
+[35mBienvenidos al Wordle
+Dame tu nombre:
+[35mBienvenidos al Wordle
+Dame tu nombre:
+Vamos a jugar josete
+[36m#PalabraSecreta TORRE
+[0mTienes 6 intentos restantes
+Introduce una palabra de 5 letras: [32m
+Validación: 
+[35mBienvenidos al Wordle
+Dame tu nombre:
+Vamos a jugar javier
+[36m#PalabraSecreta PLUMA
+[0mTienes 6 intentos restantes
+Introduce una palabra de 5 letras: [32m
+Validación: 
+[35mBienvenidos al Wordle
+Dame tu nombre:
+Vamos a jugar josete
+[36m#PalabraSecreta SILLA
+[0mTienes 6 intentos restantes
+Introduce una palabra de 5 letras: [32m
+Validación: 
+[0mC[32mI[0mN[0mC[0mO
+[0mTienes 5 intentos restantes
+Introduce una palabra de 5 letras: [32m
+[35mBienvenidos al Wordle
+Dame tu nombre:
+Vamos a jugar javier
+[36m#PalabraSecreta PLUMA
+[0mTienes 6 intentos restantes
+Introduce una palabra de 5 letras: [32m
+[31mLa palabra PA no contiene 5 letras[0m
+Introduce una palabra de 5 letras: [32m
+[31mLa palabra PATOSO no contiene 5 letras[0m
+Introduce una palabra de 5 letras: [32m
